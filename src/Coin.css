@@ -1,0 +1,30 @@
+.coin img {
+    height: 80px;
+    width: 80px;
+    margin-right: 350px;
+    margin-top: 15px;
+    
+  }
+  .coin-data {   
+    display: inline-block;
+    width: 800px;
+    
+    font-size: 17px;
+    align-items: center;
+    border-bottom: 1px solid #d7d7d7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  }
+
+  .coin{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    display:inline;
+    
+    margin-left: 350px;
+    min-width: 300px;
+    width: 150px;
+  }
+
+  .coin-row:hover{
+      cursor: pointer;
+      background-color: rgb(208, 212, 216);
+  }
